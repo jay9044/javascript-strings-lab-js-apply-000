@@ -1,4 +1,9 @@
-# JavaScript Strings Lab
+# JavaScript Strings LabClose
+
+
+README.md
+Last saved at Jun 24, 2018 12:44:27 pm
+Strings Lab
 
 ![lab](https://i.giphy.com/NETCsDYm0fL44.gif)
 
